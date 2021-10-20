@@ -5,6 +5,8 @@
 ![](https://c.tenor.com/VwThtJVMQ0oAAAAC/fat-guy.gif)
 ![](https://c.tenor.com/y9d1RTEc7iUAAAAC/firing-shooting.gif)
 
+![](https://c.tenor.com/jUMex_rdqPwAAAAS/among-us-twerk.gif)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pjiwm.Pjiwm)
 
 
