@@ -5,9 +5,16 @@
 ![](https://c.tenor.com/VwThtJVMQ0oAAAAC/fat-guy.gif)
 ![](https://c.tenor.com/y9d1RTEc7iUAAAAC/firing-shooting.gif)
 
-![](https://c.tenor.com/jUMex_rdqPwAAAAS/among-us-twerk.gif)
+![](https://c.tenor.com/1iSARWJr-TEAAAAC/among-us-twerk.gif)
+![](https://c.tenor.com/L_ELV1sgusgAAAAd/me-when-mom-find-poop-sock-poop-sock.gif)
+![](https://c.tenor.com/21NZ4IAfMT0AAAAd/testing-new.gif)
+![](https://c.tenor.com/zRdYJZo8ghkAAAAd/cut-meme.gif)
+
+
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pjiwm.Pjiwm)
+
 
 
 
