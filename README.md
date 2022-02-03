@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjiwm&show_icons=true&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjiwm&theme=dark&langs_count=10&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjiwm&theme=dark&langs_count=10&layout=compact&hide=html,css,jupyter%20notebook)
 
 <h1> Bruh momento</h1>
 
