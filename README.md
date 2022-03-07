@@ -14,7 +14,7 @@
 
 <img src="https://c.tenor.com/QrfFiEzN7l8AAAAS/monki-monkey.gif" align="center" width="20%"> <img src="https://c.tenor.com/Sw4GBENklz4AAAAd/joey-joeys-world-tour.gif" width="20%" align="center"> <img src="https://c.tenor.com/GRPBjTIKVsQAAAAd/snack-bananas.gif" align="center" width="18%"> <img src="https://c.tenor.com/yeFVqQBkuH4AAAAS/default-dance-defalt-dance-minecraft.gif" width="33%" align="center"> 
 
-<img src="https://c.tenor.com/FqKJFCwDhr4AAAAd/f-theo-theo-is-wack.gif" align="center" width="20%"> <img src="https://c.tenor.com/bAyMQ1B17M4AAAAd/ww-win.gif" align="center" width="18%"> <img src="https://c.tenor.com/7g1ondH9eAkAAAAS/bruh-momento-dance.gif" width="30%" align="center"> <img src="https://c.tenor.com/Vk37748xTLoAAAAC/beavis-butt-head.gif" align="center" width="25%">
+<img src="https://c.tenor.com/FqKJFCwDhr4AAAAd/f-theo-theo-is-wack.gif" align="center" width="20%"> <img src="https://c.tenor.com/bAyMQ1B17M4AAAAd/ww-win.gif" align="center" width="18%"> <img src="https://c.tenor.com/7g1ondH9eAkAAAAS/bruh-momento-dance.gif" width="30%" align="center"> <img src="https://c.tenor.com/Vk37748xTLoAAAAC/beavis-butt-head.gif" align="center" width="25%"><img src="https://c.tenor.com/Hu9TG4zkPWoAAAAC/what-da.gif" width="25%"> 
 
 
 <p align="center" width="100%">
