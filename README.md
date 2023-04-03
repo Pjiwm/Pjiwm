@@ -15,9 +15,9 @@
   
 # 📈 Github statistics:
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjiwm&show_icons=true&theme=dark&count_private=true)
+![Stats](https://github.com/Pjiwm/github-stats-transparent/blob/output/generated/overview.svg)
+![Languages](https://github.com/Pjiwm/github-stats-transparent/blob/output/generated/languages.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjiwm&theme=dark&langs_count=10&layout=compact&hide=vue,php,html,GLSL,css,jupyter%20notebook&exclude_repo=bress-squash-toernooi-public,circle-project,circle-android)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pjiwm.Pjiwm)
