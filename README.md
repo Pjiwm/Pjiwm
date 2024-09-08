@@ -18,10 +18,3 @@ Mostly interested in Rust🦀 and functional programming.
   
 ![Stats](https://github.com/Pjiwm/github-stats-transparent/blob/output/generated/overview.svg)
 ![Languages](https://github.com/Pjiwm/github-stats-transparent/blob/output/generated/languages.svg)
-
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Pjiwm.Pjiwm)
-
-
-
