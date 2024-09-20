@@ -3,7 +3,6 @@ Software engineer from the Netherlands.
 Mostly interested in Rust🦀 and functional programming.
 
 # 🔍 Things I wanna try out/learn in the future:
-* <a href="https://github.com/iced-rs/iced">Iced<a/>
 * <a href="https://ziglang.org/">Zig<a/>
 * <a href="https://htmx.org/">HTMX<a/>
 
